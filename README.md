@@ -1,4 +1,4 @@
 # hello-world
-Hello!\n
-Hi everybody\n
-My name is Bennett\n
+Hello!
+Hi everybody
+My name is Bennett
